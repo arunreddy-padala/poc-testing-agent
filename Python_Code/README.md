@@ -22,25 +22,6 @@ Designed with **deterministic sample data** for benchmarking and load testing (e
 * Optional aggregate statistics.
 * Extra views by category, price range, and “related items”.
 
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-org/item-catalog-api.git
-cd item-catalog-api
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Running the Server
-
-```bash
-python app.py
-```
-
-By default, the app listens on **`http://0.0.0.0:8000`**.
 
 ---
 
